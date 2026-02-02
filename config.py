@@ -4,7 +4,7 @@ from logging.handlers import RotatingFileHandler
 # Bot Configuration
 LOG_FILE_NAME = "bot.log"
 PORT = '5010'
-OWNER_ID = 6497757690
+OWNER_ID = 7648094916
 
 MSG_EFFECT = 5046509860389126442
 
@@ -13,18 +13,18 @@ SHORT_API = ""
 SHORT_TUT = "https://t.me/How_to_Download_7x/26"
 
 # Bot Configuration
-SESSION = "yato"
-TOKEN = "642712"
-API_ID = ""
-API_HASH = ""
-WORKERS = 5
+SESSION = "nezuko"
+TOKEN = "8274040763:AAGTf0xUUypWiAGrGGx-I_28ndPXK19rXfc"
+API_ID = "21375775"
+API_HASH = "24a8567a7fa9209f79d4643b191c1ae4"
+WORKERS = 200
 
 DB_URI = "mongodb"
-DB_NAME = "yato"
+DB_NAME = "nezuko"
 
-FSUBS = [[-1003016571084, True, 10]] # Force Subscription Channels [channel_id, request_enabled, timer_in_minutes]
+FSUBS = [] # Force Subscription Channels [channel_id, request_enabled, timer_in_minutes]
 # Database Channel (Primary)
-DB_CHANNEL =    # just put channel id dont add ""
+DB_CHANNEL = -1003789180735   # just put channel id dont add ""
 # Multiple Database Channels (can be set via bot settings)
 # DB_CHANNELS = {
 #     "-1002595092736": {"name": "Primary DB", "is_primary": True, "is_active": True},
@@ -33,7 +33,7 @@ DB_CHANNEL =    # just put channel id dont add ""
 # Auto Delete Timer (seconds)
 AUTO_DEL = 300
 # Admin IDs
-ADMINS = [6497757690, 6103092779]
+ADMINS = [7668133494]
 # Bot Settings
 DISABLE_BTN = True
 PROTECT = True
