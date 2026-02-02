@@ -19,7 +19,7 @@ API_ID = "21375775"
 API_HASH = "24a8567a7fa9209f79d4643b191c1ae4"
 WORKERS = 200
 
-DB_URI = "mongodb"
+DB_URI = "mongodb+srv://nezu:nezu@cluster0.o5iq5tq.mongodb.net/?appName=Cluster0"
 DB_NAME = "nezuko"
 
 FSUBS = [] # Force Subscription Channels [channel_id, request_enabled, timer_in_minutes]
