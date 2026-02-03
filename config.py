@@ -14,13 +14,13 @@ SHORT_TUT = "https://t.me/How_to_Download_7x/26"
 
 # Bot Configuration
 SESSION = "nezuko"
-TOKEN = "8274040763:AAGTf0xUUypWiAGrGGx-I_28ndPXK19rXfc"
+TOKEN = "7771723623:AAHEEdxqc839ErLhmmax32D6JSPV6GxecOs"
 API_ID = "21375775"
 API_HASH = "24a8567a7fa9209f79d4643b191c1ae4"
 WORKERS = 200
 
 DB_URI = "mongodb+srv://nezu:nezu@cluster0.o5iq5tq.mongodb.net/?appName=Cluster0"
-DB_NAME = "nezuko"
+DB_NAME = "nezuko1"
 
 FSUBS = [] # Force Subscription Channels [channel_id, request_enabled, timer_in_minutes]
 # Database Channel (Primary)
